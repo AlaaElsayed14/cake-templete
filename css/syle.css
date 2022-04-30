@@ -39,13 +39,9 @@ span.line{
 .header{
   position: fixed;
   z-index: 5;
-  background-color: #e5e4e4;
+  background-color: rgba(229, 228, 228, 0.864);
   width: 100%;
   box-shadow: -1px 4px 5px #9493938e;
-}
-
-.header .container{
-    /* overflow: hidden; */
 }
 
 .header .logoImg{
